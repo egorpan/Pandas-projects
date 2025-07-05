@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67315c51-0833-42fc-93c5-47fb40dd958c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parser_analyser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sportcars_stat/sportcars.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sportcars_stat/sportcars_stat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dota2_hero_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/dota2_hero_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dota2_hero_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/dota2_hero_names/dota2_hero_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hero_names.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dota2_hero_names/hero_names.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +40,14 @@
     "Python.dota2_hero_names.executor": "Run",
     "Python.main.executor": "Run",
     "Python.parser_analyser.executor": "Run",
+    "Python.sportcars_stat.executor": "Run",
     "Python.sports_stats.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/scars/OneDrive/Рабочий стол/Pandas projects",
+    "last_opened_file_path": "C:/Users/scars/OneDrive/Рабочий стол/Pandas projects/sportcars_stat",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,9 +58,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\scars\OneDrive\Рабочий стол\Pandas projects\sportcars_stat" />
       <recent name="C:\Users\scars\OneDrive\Рабочий стол\Pandas projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\scars\OneDrive\Рабочий стол\Pandas projects\dota2_hero_names" />
       <recent name="C:\Users\scars\OneDrive\Рабочий стол\Pandas projects" />
     </key>
   </component>
@@ -104,6 +108,7 @@
       <updated>1751386069911</updated>
       <workItem from="1751386070837" duration="4279000" />
       <workItem from="1751547361605" duration="7423000" />
+      <workItem from="1751729183964" duration="5511000" />
     </task>
     <servers />
   </component>
@@ -111,8 +116,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pandas_projects$sportcars_stat.coverage" NAME="sportcars_stat Coverage Results" MODIFIED="1751734819269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sportcars_stat" />
     <SUITE FILE_PATH="coverage/Pandas_projects$sports_stats.coverage" NAME="sports_stats Coverage Results" MODIFIED="1751386293655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Pandas_projects$dota2_hero_names.coverage" NAME="dota2_hero_names Coverage Results" MODIFIED="1751548991923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pandas_projects$dota2_hero_names.coverage" NAME="dota2_hero_names Coverage Results" MODIFIED="1751729395055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dota2_hero_names" />
     <SUITE FILE_PATH="coverage/Pandas_projects$main.coverage" NAME="main Coverage Results" MODIFIED="1751547372847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pandas_projects$parser_analyser.coverage" NAME="parser_analyser Coverage Results" MODIFIED="1751553398891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
