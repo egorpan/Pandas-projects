@@ -36,6 +36,7 @@ for model in car_makers:
 print(sportcars_stat)
 
 sportcars_stat.to_csv('sportcars_stat.csv')
+sportcars_stat.to_excel('sportcars_stat.xlsx')
 
 
 
