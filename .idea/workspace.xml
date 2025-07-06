@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67315c51-0833-42fc-93c5-47fb40dd958c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sales_analysis/divorce_rate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales_analysis/dvrs_rate.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sportcars_stat/sportcars_stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/sportcars_stat/sportcars_stat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sales_analysis/divorce_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/sales_analysis/divorce_rate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +110,7 @@
       <workItem from="1751547361605" duration="7423000" />
       <workItem from="1751729183964" duration="5511000" />
       <workItem from="1751743381255" duration="759000" />
-      <workItem from="1751823017578" duration="2561000" />
+      <workItem from="1751823017578" duration="6256000" />
     </task>
     <servers />
   </component>
@@ -121,7 +119,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pandas_projects$sales_analysis.coverage" NAME="sales_analysis Coverage Results" MODIFIED="1751824163182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_analysis" />
-    <SUITE FILE_PATH="coverage/Pandas_projects$divorce_rate.coverage" NAME="divorce_rate Coverage Results" MODIFIED="1751825666357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_analysis" />
+    <SUITE FILE_PATH="coverage/Pandas_projects$divorce_rate.coverage" NAME="divorce_rate Coverage Results" MODIFIED="1751829304112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sales_analysis" />
     <SUITE FILE_PATH="coverage/Pandas_projects$sportcars_stat.coverage" NAME="sportcars_stat Coverage Results" MODIFIED="1751744139322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sportcars_stat" />
     <SUITE FILE_PATH="coverage/Pandas_projects$sports_stats.coverage" NAME="sports_stats Coverage Results" MODIFIED="1751386293655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pandas_projects$dota2_hero_names.coverage" NAME="dota2_hero_names Coverage Results" MODIFIED="1751729395055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dota2_hero_names" />
